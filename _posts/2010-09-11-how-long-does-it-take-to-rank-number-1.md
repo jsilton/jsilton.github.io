@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Long Does it Take To Rank  \#1?
+title: How Long Does it Take To Rank  Number 1?
 date: 2010-09-11
 ---
 
