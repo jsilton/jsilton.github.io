@@ -5,4 +5,12 @@ title: Jordan Silton
 <div class="blurb">
     <h1>Hi there, I'm Jordan Silton!</h1>
     <p>This is the start of my test site using GitHub Pages.</p>
+    <h2>Articles</h2>
+    <p>Here's an archive of all my blog posts:</p>
+    <ul class="posts">
+
+        {% for post in site.posts %}
+          <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
 </div><!-- /.blurb -->

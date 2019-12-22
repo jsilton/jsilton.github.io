@@ -8,4 +8,4 @@ I launched this site only a few months ago, but it still could use a facelift. I
 
 ![New Theme Design](/images/new-theme-design.png)
 
-[PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/) has been enabled for images and I even added a [mobile](http://wordpress.org/extend/plugins/wptouch/) version of the blog and website. Please leave a comment if you have any additional ideas for improvement. Enjoy!
+[PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/) has been enabled for images and I even added a [mobile](https://wordpress.org/plugins/wptouch/) version of the blog and website. Please leave a comment if you have any additional ideas for improvement. Enjoy!
