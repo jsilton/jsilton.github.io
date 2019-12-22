@@ -1,3 +1,3 @@
 name: Jordan Silton
 markdown: kramdown
-permalink: /blog/:title
+permalink: /articles/:title
