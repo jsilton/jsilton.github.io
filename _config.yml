@@ -1,3 +1,5 @@
 name: Jordan Silton
 markdown: kramdown
 permalink: /articles/:title
+plugins:
+  - jekyll-redirect-from
