@@ -1,6 +1,11 @@
 name: Jordan Silton
+<<<<<<< HEAD
 title: Jordan Silton
 description: This is my website.
 permalink: /articles/:title
 plugins:
   - jekyll-redirect-from
+=======
+markdown: kramdown
+permalink: /articles/:title
+>>>>>>> parent of 44033e7... Add redirects plugin
