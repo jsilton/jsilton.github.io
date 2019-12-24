@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Let’s Get Started
+description: This is the first entry and the start of my personal blog. I’m not sure where it will take me, but I am definitely excited to start writing, develop a focus, and ultimately enjoy the experience publishing work online.
 date: 2010-08-07
 ---
 

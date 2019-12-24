@@ -2,7 +2,9 @@
 <html lang="en-US"></html>
 <html>
 	<head>
-        <title>{{ page.title }} | JordanSilton.com</title>
+		<title>{{ page.title }} | JordanSilton.com</title>
+		<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 		<!-- link to main stylesheet -->
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
