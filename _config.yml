@@ -1,6 +1,5 @@
 name: Jordan Silton
 description: This is my website.
-markdown: kramdown
 permalink: /articles/:title
 plugins:
   - jekyll-redirect-from

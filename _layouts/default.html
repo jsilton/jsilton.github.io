@@ -1,33 +1,34 @@
-<!DOCTYPE html>
-<html lang="en-US"></html>
-<html>
+<!doctype html>
+<html lang="en-US">
 	<head>
+		<meta charset="utf-8">
 		<title>{{ page.title }} | JordanSilton.com</title>
+		<meta name="author" content="Jordan Silton">
 		<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-		<!-- link to main stylesheet -->
-		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 		<link rel="stylesheet" type="text/css" href="{{ '/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
 		{% include analytics.html %}
 	</head>
 	<body>
-		<header class="page-header" role="banner">
-			<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-			<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-		</header>
-		<main id="content" class="main-content" role="main">
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+        		<li><a href="/speaking/">Speaking</a></li>
+        		<li><a href="/articles/">Articles</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
 			{{ content }}
-			<footer class="site-footer">
-				<ul>
-					<li><a href="https://www.linkedin.com/in/jsilton/">LinkedIn</a></li>
-					<li><a href="https://twitter.com/jsilton">Twitter</a></li>
-					<li><a href="https://www.instagram.com/jsilton/">Instagram</a></li>
-					<li><a href="https://github.com/jsilton">GitHub</a></li>
-					<li><a href="https://medium.com/@jsilton">Medium</a></li>
-				</ul>
-			</footer>
-		  </main>
+		</div>
+		<footer class="site-footer">
+			<ul>
+				<li><a href="https://www.linkedin.com/in/jsilton/">LinkedIn</a></li>
+				<li><a href="https://twitter.com/jsilton">Twitter</a></li>
+				<li><a href="https://www.instagram.com/jsilton/">Instagram</a></li>
+				<li><a href="https://github.com/jsilton">GitHub</a></li>
+				<li><a href="https://medium.com/@jsilton">Medium</a></li>
+			</ul>
+		</footer>
 	</body>
 </html>
