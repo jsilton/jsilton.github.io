@@ -3,5 +3,3 @@ description: This is my website.
 permalink: /articles/:title
 plugins:
   - jekyll-redirect-from
-sass:
-    sass_dir: ./_scss
