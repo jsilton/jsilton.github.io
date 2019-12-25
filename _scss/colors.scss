@@ -1,369 +1,103 @@
-@import './_imports/_variables';
-
-// Background
-// Greens
-.bg--turqoise {
-	background: $turqoise;
+html {
+	background-color: lighten($body-copy-color, 10%);
 }
 
-.bg--green-sea {
-	background: $green-sea;
+body {
+	background-color: $page-bg-color;
+	color: $body-copy-color;
+	border-top: 0.025em solid $body-copy-color;
 }
 
-.bg--emerald {
-	background: $emerald;
+details,
+summary:focus {
+	outline: 0;
 }
 
-.bg--nephritis {
-	background: $nephritis;
+blockquote {
+	border-left: 0.15em solid $bright-grey;
+	color: lighten($medium-grey, 15%);
 }
 
-.bg--green {
-	background: $green;
+a,
+a:visited,
+a code {
+	color: $body-link-color;
+	transition: color 200ms linear;
 }
 
-.bg--light-green {
-	background: $light-green;
+a:hover {
+	color: lighten($body-link-color, 10%);
+	transition: color 200ms linear;
 }
 
-.bg--lime {
-	background: $lime;
+hr {
+	border: 0;
+	height: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-// Blues
-.bg--river {
-	background: $river;
+code,
+kbd {
+	color: $medium-orange;
 }
 
-.bg--belize {
-	background: $belize;
+pre,
+samp {
+	background-color: #f5f5f5;
+	color: #686865;
 }
 
-.bg--asphalt {
-	background: $asphalt;
+pre code {
+	font-size: 0.75em;
+	color: #686865;
 }
 
-.bg--midnight-blue {
-	background: $midnight-blue;
-}
-
-.bg--blue {
-	background: $blue;
-}
-
-.bg--light-blue {
-	background: $light-blue;
-}
-
-.bg--cyan {
-	background: $cyan;
-}
-
-.bg--teal {
-	background: $teal;
-}
-
-// Reds
-.bg--alizarin {
-	background: $alizarin;
-}
-
-.bg--pomegranate {
-	background: $pomegranate;
-}
-
-.bg--red {
-	background: $red;
-}
-
-// Oranges
-.bg--carrot {
-	background: $carrot;
-}
-
-.bg--pumpkin {
-	background: $pumpkin;
-}
-
-.bg--dull-orange {
-	background: $dull-orange;
-}
-
-.bg--orange {
-	background: $orange;
-}
-
-.bg--blood-orange {
-	background: $blood-orange;
-}
-
-.bg--amber {
-	background: $amber;
-}
-
-// Yellows
-.bg--sunflower {
-	background: $sunflower;
-}
-
-.bg--yellow {
-	background: $yellow;
-}
-
-// Purples and Pinks
-.bg--amethyst {
-	background: $amethyst;
-}
-
-.bg--plum {
-	background: $plum;
-}
-
-.bg--purple {
-	background: $purple;
-}
-
-.bg--deep-purple {
-	background: $deep-purple;
-}
-
-.bg--pink {
-	background: $pink;
-}
-
-.bg--indigo {
-	background: $indigo;
-}
-
-// Browns
-.bg--brown {
-	background: $brown;
-}
-
-// Greys
-.bg--grey {
-	background: $grey;
-}
-
-.bg--gun-metal {
-	background: $gun-metal;
-}
-
-.bg--asbestos {
-	background: $asbestos;
-}
-
-.bg--concrete {
-	background: $concrete;
-}
-
-.bg--silver {
-	background: $silver;
-}
-
-// Whites
-.bg--clouds {
-	background: $clouds;
-}
-
-.bg--paper {
-	background: $paper;
-}
-
-// Blacks
-.bg--black {
-	background: $black;
-}
-
-// Text Colors
-// Greens
-.color--turqoise {
-	color: $turqoise;
-}
-
-.color--green-sea {
-	color: $green-sea;
-}
-
-.color--emerald {
-	color: $emerald;
-}
-
-.color--nephritis {
-	color: $nephritis;
-}
-
-.color--green {
-	color: $green;
-}
-
-.color--light-green {
-	color: $light-green;
-}
-
-.color--lime {
-	color: $lime;
-}
-
-// Blues
-.color--river {
-	color: $river;
-}
-
-.color--belize {
-	color: $belize;
-}
-
-.color--asphalt {
-	color: $asphalt;
-}
-
-.color--midnight-blue {
-	color: $midnight-blue;
-}
-
-.color--blue {
-	color: $blue;
-}
-
-.color--light-blue {
-	color: $light-blue;
-}
-
-.color--cyan {
-	color: $cyan;
-}
-
-.color--teal {
-	color: $teal;
-}
-
-// Reds
-.color--alizarin {
-	color: $alizarin;
-}
-
-.color--pomegranate {
-	color: $pomegranate;
-}
-
-.color--red {
-	color: $red;
-}
-
-// Oranges
-.color--carrot {
-	color: $carrot;
-}
-
-.color--pumpkin {
-	color: $pumpkin;
-}
-
-.color--dull-orange {
-	color: $dull-orange;
-}
-
-.color--orange {
-	color: $orange;
-}
+a.home-link {
+	color: lighten($page-bg-color, 15%);
+	background-color: $body-copy-color;
 
-.color--blood-orange {
-	color: $blood-orange;
+	&:hover {
+		color: darken($page-bg-color, 10%);
+		transition: color 200ms linear;
+	}
 }
 
-.color--amber {
-	color: $amber;
-}
-
-// Yellows
-.color--sunflower {
-	color: $sunflower;
-}
-
-.color--yellow {
-	color: $yellow;
-}
-
-// Purples and Pinks
-.color--amethyst {
-	color: $amethyst;
-}
-
-.color--plum {
-	color: $plum;
-}
-
-.color--purple {
-	color: $purple;
-}
-
-.color--deep-purple {
-	color: $deep-purple;
-}
-
-.color--pink {
-	color: $pink;
-}
-
-.color--indigo {
-	color: $indigo;
-}
+article header {
+	.article-title {
+		color: lighten($body-copy-color, 50%);
+		margin-bottom: 0.25em;
 
-// Browns
-.color--brown {
-	color: $brown;
+		.article-permalink {
+			text-decoration: none;
+		}
+	}
+	.article-pubdate {
+		color: darken($bright-grey, 15%);
+	}
 }
 
-// Greys
-.color--grey {
-	color: $grey;
-}
-
-.color--gun-metal {
-	color: $gun-metal;
-}
-
-.color--asbestos {
-	color: $asbestos;
-}
-
-.color--concrete {
-	color: $concrete;
-}
-
-.color--silver {
-	color: $silver;
-}
+.article-collection-item {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 
-// Whites
-.color--clouds {
-	color: $clouds;
+	&:last-child {
+		border-bottom: none;
+	}
 }
 
-.color--paper {
-	color: $paper;
+.site-footer {
+	background-color: lighten($body-copy-color, 10%);
+	color: $page-bg-color;
 }
 
-.color--white {
-	color: white;
+.footer-module {
+	.footer-module-heading {
+		color: $bright-grey;
+	}
+	a {
+		color: lighten($body-link-color, 20%);
+	}
+	a:hover {
+		color: $body-link-color;
+	}
 }
-
-// Blacks
-.color--black {
-	color: $black;
-}
-
-// Other Text Colors
-.color--primary {
-	color: $primary;
-}
-
-.color--secondary {
-	color: $secondary;
-}
-
-.color--accent {
-	color: $accent;
-}
-
