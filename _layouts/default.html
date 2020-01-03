@@ -82,16 +82,16 @@
 			</div>
 
 			<div class="row">
-				<div class="six columns">
+				<div class="four columns">
 				  <div class="row">
 					  <h2>Articles</h2>
-					  <div class="six columns subhead">
+					  <div class="four columns subhead">
 						  <p>An archive of my blog posts</p>
 					  </div>
 				  </div>
 			  </div>
 		  
-				<div class="six columns">
+				<div class="eight columns">
 					<ul class="posts">
 						{% for post in site.posts %}
 						<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
@@ -99,10 +99,9 @@
 					</ul>
 				</div>
 			  </div>
-			</div>
 		
-			<div class="row" style="margin-top:10rem;">
-			  <hr>  
+			  <div class="row" style="margin-top:10rem;">
+			   <hr>  
 			  <h3>To get in touch, write to <a href="mailto:jordan@jordansilton.com">jordan@jordansilton.com</a>.</h3>
 			</div>
 		
