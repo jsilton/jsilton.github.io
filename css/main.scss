@@ -115,9 +115,13 @@ p {
     width:70px;
     height:70px;
     margin-top:8%;
+    max-width: 100%;
   }
   a {
     border: none;
+    :hover {
+      border: none;
+    }
   }
 }
 
