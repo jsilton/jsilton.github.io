@@ -100,6 +100,7 @@ body {
   color: #363030; }
 
 .logo img {width:70px; height:70px;margin-top:8%;}
+.logo a  { border: none; }
 
 .subhead{font-size:1.4rem;font-weight:500;line-height:1.3;margin-bottom:5rem;margin-left:0;}
 
@@ -141,19 +142,20 @@ h1 {
   font-family: Helvetica, Arial, sans-serif;
   color:#000;
   letter-spacing: -.15rem;
+  font-size: 3rem;
+  line-height: 1.1;
 }
 
 h3 {
-  margin-top: 0;
-  margin-bottom: 12rem;
   font-weight: 500; 
   font-family: Helvetica, Arial, sans-serif;
   color:#000;
   letter-spacing:-.05rem;
+  font-size: 2.4rem;
+  line-height: 1.3;
 }
 
 h2, h4, h5, h6 {
-  margin-top: 0;
   margin-bottom: 2.5rem;
   font-weight: 700; 
   font-family: Helvetica, Arial, sans-serif;
@@ -162,9 +164,7 @@ h2, h4, h5, h6 {
   letter-spacing:.3rem;
 }
 
-h1 { font-size: 3rem; line-height: 1.1;}
 h2 { font-size: 2.4rem; line-height: 1.2;}
-h3 { font-size: 2.4rem; line-height: 1.3;}
 h4 { font-size: 2.4rem; line-height: 1.35;}
 h5 { font-size: 1.8rem; line-height: 1.5;}
 h6 { font-size: 1.5rem; line-height: 1.6;}
@@ -193,9 +193,6 @@ a:hover {
   color:#000;
   border-bottom:1px solid #efdcd9; 
   transition:.5s;}
-.logo a  {
-  border-bottom: none;
-}
 
 
 /* Buttons */

@@ -2,17 +2,69 @@
 layout: default
 title: Jordan Silton - SEO, Analytics, & Innovation
 ---
-<div class="blurb">
-    <h1>Hi there, I'm Jordan Silton!</h1>
-    <p>I have a passion for problem solving and digital marketing, play ultimate frisbee and enjoy cooking.</p>
-    <p>I am Senior Director, SEO & Analytics at CoStar Group (Nasdaq: CSGP), the leading provider of commercial real estate information, analytics and online marketplaces. I lead the search engine optimization (SEO), content, and data science practices for the Apartments.com Network of rental marketplaces including Apartments.com™, ForRent.com®, Apartment Finder™, ApartmentHomeLiving.com™, Apartamentos.com™, WestsideRentals.com™, ForRentUniversity.com®, AFTER55.com™ and CorporateHousing.com™.</p>
-    <p>Before working at Apartments.com, I crafted and executed SEO and digital media strategies for clients such as Alston & Bird, AT&T U-verse, Atlanta Ballet, Ashton Woods Homes, Cartoon Network, GameStop, Kimberly-Clark, Lowe’s, NASCAR and Zaxby’s while at Search Discovery and Relevance Advisors.</p>
-    <p>For school, I attended Emory University and hold a Bachelors in Business Administration with concentrations in Marketing and Organization and Management from the Goizueta Business School and a minor in Theater Studies from Emory College.</p>
-    <h2>Articles</h2>
-    <p>Here's an archive of all my blog posts:</p>
-    <ul class="posts">
-        {% for post in site.posts %}
-        <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
-</div><!-- /.blurb -->
+
+<div class="row">
+    <div class="four columns">
+        <div class="row">
+            <h2>About Me</h2>
+            <div class="subhead">
+                <p>SEO, Analytics, Innovation</p>
+            </div>
+        </div>
+    </div>
+    <div class="eight columns">
+        <p>I have a passion for problem solving and digital marketing, play ultimate frisbee and enjoy cooking.</p>
+        <p>I am Senior Director, SEO & Analytics at CoStar Group (Nasdaq: CSGP), the leading provider of commercial real estate information, analytics and online marketplaces. I lead the search engine optimization (SEO), content, and data science practices for the Apartments.com Network of rental marketplaces including Apartments.com™, ForRent.com®, Apartment Finder™, ApartmentHomeLiving.com™, Apartamentos.com™, WestsideRentals.com™, ForRentUniversity.com®, AFTER55.com™ and CorporateHousing.com™.</p>
+        <p>Before working at Apartments.com, I crafted and executed SEO and digital media strategies for clients such as Alston & Bird, AT&T U-verse, Atlanta Ballet, Ashton Woods Homes, Cartoon Network, GameStop, Kimberly-Clark, Lowe’s, NASCAR and Zaxby’s while at Search Discovery and Relevance Advisors.</p>
+        <p>For school, I attended Emory University and hold a Bachelors in Business Administration with concentrations in Marketing and Organization and Management from the Goizueta Business School and a minor in Theater Studies from Emory College.</p>
+    </div>
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="four columns">
+        <h2>Expertise</h2>
+        <div class="subhead">
+            <p>Creative thinker, dedicated problem solver, accomplished digital marketing professional.</p>
+        </div>
+    </div>
+    <div class="four columns">
+        <ul>
+            <li>Search Engine Optimization (SEO)</li>
+            <li>Data Science/Analytics Strategy</li>
+            <li>Content Strategy/Content Marketing</li>
+            <li>Experimentation/Website Testing</li>
+            <li>Digital Analytics and Tag Management</li>
+        </ul>
+    </div>
+    <div class="four columns">
+        <ul>
+            <li>User Experience Optimization (UX)</li>
+            <li>Digital/Interactive Marketing</li>
+            <li>Online Reputation Management</li>
+            <li>Paid Search (PPC, Pay-Per-Click)</li>
+            <li>Retargeting (Remarketing)</li>
+        </ul>
+    </div>
+</div> 
+
+<hr>
+
+<div class="row">
+	<div class="four columns">
+		<div class="row">
+			<h2>Articles</h2>
+			<div class="subhead">
+				<p>An archive of my blog posts</p>
+			</div>
+		</div>
+	</div>
+	<div class="eight columns">
+		<ul class="posts">
+			{% for post in site.posts %}
+			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</div>
+</div>
