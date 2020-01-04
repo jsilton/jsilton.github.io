@@ -1,5 +1,5 @@
 name: Jordan Silton
-description: This is my website.
+description: SEO, Analytics, & Innovation
 permalink: /articles/:title
 plugins:
   - jekyll-redirect-from
