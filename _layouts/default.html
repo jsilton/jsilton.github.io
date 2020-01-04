@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{{ page.title }} | JordanSilton.com</title>
-		<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+		{% if page.url != "/404.html" %}<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">{{ endif }}
 		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 		<meta name="author" content="Jordan Silton">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
