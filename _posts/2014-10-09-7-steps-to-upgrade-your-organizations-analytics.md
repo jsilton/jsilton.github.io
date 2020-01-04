@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SMX Overtime - Enterprise SEOs explain tactical approaches for large implementations
+title: 7 Steps to Upgrade Your Organization's Analytics
 date: 2014-10-09
 redirect_from:
   - /7-steps-to-upgrade-your-organizations-analytics-9662f3c798de

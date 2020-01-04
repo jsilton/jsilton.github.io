@@ -6,7 +6,7 @@ redirect_from:
   - /googles-black-top-navigation-35300b38443c
 ---
 
-Back in December 2010, I wrote an article about the fancy [new top navigation](/articles/new-google-top-navigation/) Google was testing. Over time, Google must have seen favorable results of their testing, since that same navigation launched across several Google properties including search, news, images, maps, shopping, Gmail, and more. This evening I opened up my browser and found myself in a new test. The top navigation has turned black and, instead of a blue bar on top of the current selection, has a red bar.
+Back in December 2010, I wrote an article about the fancy [new top navigation](/articles/new-google-top-navigation) Google was testing. Over time, Google must have seen favorable results of their testing, since that same navigation launched across several Google properties including search, news, images, maps, shopping, Gmail, and more. This evening I opened up my browser and found myself in a new test. The top navigation has turned black and, instead of a blue bar on top of the current selection, has a red bar.
 
 ![Google's Black Top Navigation](/images/google-black-top-navigation.png)
 

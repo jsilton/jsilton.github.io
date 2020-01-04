@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Nonprofits Engage Mobile Users
+title: Simple is Better for Clarifying Recommendations
 date: 2014-04-27
 redirect_from:
   - /simple-is-better-clarifying-recommendations-b454518ba6f
