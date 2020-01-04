@@ -12,7 +12,7 @@ So when did I really launch the site? On August 26th, I removed the no-index met
 
 ![Google Search Results for "Jordan Silton"](/images/google-results-jordan-silton.png)
 
-The first thing to show up in search results was my [blog post](https://www.jordansilton.com/lets-get-started/). FeedBurner is quite amazing; with [Google Caffeine](https://googleblog.blogspot.com/2010/06/our-new-search-index-caffeine.html), blog posts get listed within minutes if not seconds. After that first post, it took quite a for Google to display the rest of my pages in search results. Today is September 11th, and I can say that I now see all my pages indexed properly with accurate titles and meta descriptions. Plus I rank number one for my own name … on Google that is.
+The first thing to show up in search results was my [blog post](/articles/lets-get-started/). FeedBurner is quite amazing; with [Google Caffeine](https://googleblog.blogspot.com/2010/06/our-new-search-index-caffeine.html), blog posts get listed within minutes if not seconds. After that first post, it took quite a for Google to display the rest of my pages in search results. Today is September 11th, and I can say that I now see all my pages indexed properly with accurate titles and meta descriptions. Plus I rank number one for my own name … on Google that is.
 
 ![Bing Search Results for "Jordan Silton"](/images/bing-results-jordan-silton.png)
 
