@@ -5,6 +5,7 @@ description: This is the first entry and the start of my personal blog. I’m no
 date: 2010-08-07
 redirect_from:
   - /lets-get-started/
+  - /lets-get-started-ec87d3e4546
 ---
 
 Welcome to my blog at JordanSilton.com. This is the first entry and the start of my personal blog. I’m not sure where it will take me, but I am definitely excited to start writing, develop a focus, and ultimately enjoy the experience publishing work online.
