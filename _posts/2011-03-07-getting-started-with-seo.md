@@ -2,6 +2,8 @@
 layout: post
 title: Getting Started with SEO
 date: 2011-03-07
+redirect_from:
+  - /getting-started-with-seo/
 ---
 
 The internet is buzzing with discussion about [Google’s latest update](https://googleblog.blogspot.com/2011/02/finding-more-high-quality-sites-in.html) (Farmer or Panda depending on where you read). Is SEO dead? Hardly so, but some believe that it is [no longer a viable strategy](https://cdixon.org/2011/03/05/seo-is-no-longer-a-viable-marketing-strategy-for-startups). I disagree, and Danny Sullivan wrote an article this week about this exact topic: [SEO Remains A Viable Marketing Strategy For Anyone](https://searchengineland.com/seo-remains-a-viable-marketing-strategy-for-anyone-67141).

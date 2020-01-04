@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Multiple Feeds for Twitter Profiles
-
 date: 2011-04-17
+redirect_from:
+  - /multiple-feeds-for-twitter-profiles-af130ab54223
 ---
 
 Did anyone else think that a social platform of messages only 140 characters each wouldn’t make it? I did, but Twitter succeeded anyways, and it’s huge! Twitter was founded only five years ago, and has shown stunning growth. According to the [Huffington Post](https://www.huffpost.com/entry/twitter-user-statistics_n_835581), there are now one billion tweets each week, and, last year alone, the average number of tweets per day has nearly tripled from 50 million to 140 million. With all this usage and growth, there’s a startling amount of incoordination for Twitter profiles.
