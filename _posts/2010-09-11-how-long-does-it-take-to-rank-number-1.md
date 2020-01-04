@@ -4,6 +4,7 @@ title: How Long Does it Take To Rank Number 1?
 date: 2010-09-11
 redirect_from:
   - /how-long-does-it-take-to-rank-1-e27d29d3e57e
+  - /how-long-does-it-take-to-rank-1/
 ---
 
 How long does it take to rank #1? Well, this website is quite new … bought the domain on August 6th and started working on it immediately. The first thing I did was block search engines. This may be surprising, but it’s actually a good idea until you get the website presentable for the general public. I [robots.txt](https://support.google.com/webmasters/answer/6062608?hl=en) blocked the site and implemented a [no-index meta tag](https://www.robotstxt.org/meta.html).

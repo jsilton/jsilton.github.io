@@ -4,6 +4,7 @@ title: Google Blue Arrow
 date: 2010-10-28
 redirect_from:
   - /google-blue-arrow-d128b671d188
+  - /google-blue-arrow/
 ---
 
 What is that blue arrow in the Google search results? If you use the arrows on your keyboard, you can move the arrow up and down through the results. There has been a lot of buzz recently about Google TV and how websites will have to adapt to users browsing on their TVs. Google has already implemented a first step.

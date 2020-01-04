@@ -2,6 +2,9 @@
 layout: post
 title: New, Fresh Look
 date: 2010-11-19
+redirect_from:
+  - /new-fresh-look/
+  - /new-fresh-look-b95b23320d0a
 ---
 
 I launched this site only a few months ago, but it still could use a facelift. I hope you enjoy this cleaner, more professional look. I have included most of the same content in this new theme, but many of the features have been enhanced.
