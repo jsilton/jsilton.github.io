@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Jordan Silton's Blog</title>
-	<link href="https://www.jordansilton.com/atom.xml" rel="self"/>
-	<link href="https://www.jordansilton.com"/>
+	<link href="https://jordansilton.com/atom.xml" rel="self"/>
+	<link href="https://jordansilton.com"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>https://www.jordansilton.com</id>
+	<id>https://jordansilton.com</id>
 	<author>
 		<name>Jordan Silton</name>
 		<email>jordan@jordansilton.com</email>
@@ -17,9 +17,9 @@ layout: feed
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="https://www.jordansilton.com{{ post.url }}"/>
+			<link href="https://jordansilton.com{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>https://www.jordansilton.com{{ post.id }}</id>
+			<id>https://jordansilton.com{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
