@@ -2,6 +2,8 @@
 layout: post
 title: How Apartments.com Automated Contextual Linking
 date: 2019-05-03
+redirect_from:
+  - /how-apartments-com-automated-contextual-linking-4c1069d754d2
 ---
 
 I had the pleasure of speaking at Perficient Digital’s [Next10X Digital Marketing Conference](https://next10x.perficientdigital.com/) in Boston, MA on May 2nd. My talk was part of a spotlight session, “Case Studies and Practical Insights from Experience,” with thought leaders and subject matter experts Grant Davies (Perficient Digital), Shawn Tyler (BOLD), and Susan Wenograd (Aimclear). Thank you Eric Enge for inviting me — it was great to be in my hometown and be a part of this conference.

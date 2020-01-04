@@ -2,6 +2,8 @@
 layout: post
 title: SMX Overtime - Enterprise SEOs explain tactical approaches for large implementations
 date: 2014-10-09
+redirect_from:
+  - /7-steps-to-upgrade-your-organizations-analytics-9662f3c798de
 ---
 
 There are lots of buzzwords in web analytics. Attribution and big data get a ton of attention, but there are several things you can do right away to upgrade your organization’s analytics abilities. The following seven steps can help your arts organization get the data you need to make better decisions about your digital marketing campaigns.

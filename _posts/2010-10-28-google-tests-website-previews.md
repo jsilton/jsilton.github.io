@@ -2,6 +2,9 @@
 layout: post
 title: Google Tests Website Previews
 date: 2010-10-28
+redirect_from:
+  - /tagged/preview
+  - /google-tests-website-previews-c176a18bafc5
 ---
 
 Google is testing website previews in the search results. For some users, when hovering over a search results, the background becomes a blue gradient. If you click on the magnifying glass, you can see a preview of the website. Once you click on the magnifying glass once, you can move your mouse on top of the other search results to scroll between previews.
