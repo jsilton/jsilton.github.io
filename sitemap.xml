@@ -2,19 +2,15 @@
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://jordansilton.com/</loc>
+    </url>
+    <url>
+        <loc>https://jordansilton.com/articles/</loc>
+    </url>
     {% for post in site.posts %}
     <url>
         <loc>https://jordansilton.com{{ post.url | remove: 'index.html' }}</loc>
     </url>
-    {% endfor %}
-
-    {% for page in site.pages %}
-    {% if page.layout != nil %}
-    {% if page.layout != 'feed' %}
-    <url>
-        <loc>https://jordansilton.com{{ page.url | remove: 'index.html' }}</loc>
-    </url>
-    {% endif %}
-    {% endif %}
     {% endfor %}
 </urlset>
