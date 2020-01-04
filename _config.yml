@@ -1,5 +1,6 @@
 name: Jordan Silton
 description: SEO, Analytics, & Innovation
+url: https://jordansilton.com
 permalink: /articles/:title
 plugins:
   - jekyll-redirect-from

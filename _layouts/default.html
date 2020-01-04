@@ -3,12 +3,13 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{{ page.title }} | JordanSilton.com</title>
-		<link rel="canonical" href="https://jordansilton.com{{ page.url | replace:'index.html',''}}">
+		<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 		<meta name="author" content="Jordan Silton">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" href="{{ '/css/normalize.css?v=' | append: site.github.build_revision | relative_url }}">
 		<link rel="stylesheet" type="text/css" href="{{ '/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
+		<link rel="alternate" type="application/rss+xml" title="Jordan Silton RSS" href="/feed.xml">
 		{% include analytics.html %}
 	</head>
 	<body>
