@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Multiple Feeds for Twitter Profiles
+description: Instead of consolidating their presence to one profile, organizations and professionals worldwide have created multiple Twitter profiles for each service offering or topic.
 date: 2011-04-17
 redirect_from:
   - /multiple-feeds-for-twitter-profiles-af130ab54223

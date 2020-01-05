@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google’s Black Top Navigation
+description: This evening I opened up my browser and found myself in a new test. The top navigation has turned black and a red bar appears on top of the current selection.
 date: 2011-06-26
 redirect_from:
   - /googles-black-top-navigation-35300b38443c

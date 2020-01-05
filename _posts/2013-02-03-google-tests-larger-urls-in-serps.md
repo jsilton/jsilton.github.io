@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Tests Larger URL in SERPs
+description: I just spotted what looks to be one of the current tests Google is performing. The green color remains the same, but the font size has increased from 13px to 16px.
 date: 2013-02-03
 redirect_from:
   - /google-tests-larger-url-in-serps-8a3ea501903c

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How to Grow Huge Websites Like Apartments.com Through Innovative SEO Tactics
+description: I was able to sit down with Alex Membrillo, CEO of Cardinal, on his Ignite Digital Marketing podcast and share some tips on how I was able to help Apartments.com grow. 
 date: 2018-06-14
 redirect_from:
   - /how-to-grow-huge-websites-like-apartments-com-through-innovative-seo-tactics-3028df58f1d1
 ---
 
-I was able to sit down with Alex Membrillo, CEO of Cardinal, on his Ignite Digital Marketing podcast and share some tips on how I was able to grow Apartments.com. Thank you Alex for spending some time with me.
+I was able to sit down with Alex Membrillo, CEO of Cardinal, on his Ignite Digital Marketing podcast and share some tips on how I was able to help Apartments.com grow. Thank you Alex for spending some time with me.
 
 Listen on Sticher: [https://www.stitcher.com/podcast/ignite-digital-marketing-podcast/e/54896347](https://www.stitcher.com/podcast/ignite-digital-marketing-podcast/e/54896347)
 

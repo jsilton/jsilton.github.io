@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Simple is Better for Clarifying Recommendations
+description: Next time you find yourself trying to answer a difficult question, take a moment to consider whether or not you can come up with a better recommendation if you had more time.
 date: 2014-04-27
 redirect_from:
   - /simple-is-better-clarifying-recommendations-b454518ba6f

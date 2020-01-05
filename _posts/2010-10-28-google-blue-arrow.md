@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Blue Arrow
+description: This blue arrow allows users to be able to navigate easily through search results without a cursor. Use the arrows on your keyboard to move the arrow up and down.
 date: 2010-10-28
 redirect_from:
   - /google-blue-arrow-d128b671d188

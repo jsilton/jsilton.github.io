@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Google Top Navigation
+description: Last month, Google started testing what TechCrunch called a “sexier top nav bar”. It looks like google is rolling out this new top nav bar for the homepage and image search.
 date: 2010-12-19
 redirect_from:
   - /tagged/navigation

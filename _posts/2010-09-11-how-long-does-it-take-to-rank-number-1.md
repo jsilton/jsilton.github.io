@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Long Does it Take To Rank Number 1?
+description: Both Google and Bing do a remarkable job of sifting through millions of web pages and choosing those most relevant for any individual query.
 date: 2010-09-11
 redirect_from:
   - /how-long-does-it-take-to-rank-1-e27d29d3e57e

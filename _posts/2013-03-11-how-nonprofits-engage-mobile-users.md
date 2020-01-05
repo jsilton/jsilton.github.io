@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Nonprofits Engage Mobile Users
+description: A few weeks ago, Atlanta Ballet asked me to be part of a conversation with a reporter from Philanthropy.org who was writing an article about mobile websites.
 date: 2013-03-11
 redirect_from:
   - /how-nonprofits-engage-mobile-users-cae3ec82f536

@@ -1,10 +1,12 @@
 ---
 layout: post
 title: To Redesign or Not To Redesign?
+description: The moment a new website launches is usually first time the word redesign comes up. The problem is, redesign means something different to everyone.
 date: 2011-04-28
 redirect_from:
   - /website-redesign-and-iteration/
   - /to-redesign-or-not-to-redesign-825d172f21ab
+  - /articles/website-redesign-and-iteration
 ---
 
 The moment a new website launches is usually first time the word redesign comes up. The problem is, redesign means something different to everyone. For some it’s a re-skin and new look/feel, but for others it means a backend overhaul or a CMS transition. In many cases, these two process that can operate independently get lumped into the joint redesign process which becomes very expensive and time consuming for businesses and employees. Instead of trying to do everything all at once, why not [design a website for growth](https://www.searchdiscovery.com/blog/designing-a-website-for-growth/)?

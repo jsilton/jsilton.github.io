@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting Started with SEO
+description: Google has its own SEO starter guide, so go direct to the top search engine itself for the best SEO advice. Download the starter guide today.
 date: 2011-03-07
 redirect_from:
   - /getting-started-with-seo/
@@ -9,7 +10,7 @@ redirect_from:
 
 The internet is buzzing with discussion about [Google’s latest update](https://googleblog.blogspot.com/2011/02/finding-more-high-quality-sites-in.html) (Farmer or Panda depending on where you read). Is SEO dead? Hardly so, but some believe that it is [no longer a viable strategy](https://cdixon.org/2011/03/05/seo-is-no-longer-a-viable-marketing-strategy-for-startups). I disagree, and Danny Sullivan wrote an article this week about this exact topic: [SEO Remains A Viable Marketing Strategy For Anyone](https://searchengineland.com/seo-remains-a-viable-marketing-strategy-for-anyone-67141).
 
-With all of these rumors, theories, and controversy, where should you go to get started with SEO. Is there even a reliable source for real, accurate, white hat SEO advice? Yes, there are many, but one in particular could trump them all. Google has its own [SEO starter guide](https://support.google.com/webmasters/answer/7451184?hl=en), so go direct to the top search engine itself for the best SEO advice.
+With all of these rumors, theories, and controversy, where should you go to get started with SEO? Is there even a reliable source for real, accurate, white hat SEO advice? Yes, there are many, but one in particular could trump them all. Google has its own [SEO starter guide](https://support.google.com/webmasters/answer/7451184?hl=en), so go direct to the top search engine itself for the best SEO advice.
 
 The starter guide takes a look at all of the basics of SEO. It doesn’t tell you how to write the best title tag, meta description, or how to structure your site architecture. It does share what users and Google are looking for when they come to a website. The guide shares some best practices, and many resources for more information. Most importantly, Google declares what SEO is all about and reiterates that consumers are the end consumer:
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Up In The Air
+description: I first launched this website while in the air from Atlanta to Boston. I am again 10,000+ feet in the air and able to be connected to the world by my iPad.
 date: 2010-11-23
 redirect_from:
   - /up-in-the-air-28baf6bdc0f8

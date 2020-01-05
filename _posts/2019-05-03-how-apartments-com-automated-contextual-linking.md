@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Apartments.com Automated Contextual Linking
+description: At Apartments.com, we publish thousands of local guides across the country and found a better way to place and update contextual links both helping renters and search engines.
 date: 2019-05-03
 redirect_from:
   - /how-apartments-com-automated-contextual-linking-4c1069d754d2

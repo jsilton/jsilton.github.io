@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AdWords Location Extensions
+description: This week, Google launched its newest update to location extensions. It is becoming more and more important to get your ads displayed at the top of the SERPs.
 date: 2011-02-05
 redirect_from:
   - /adwords-location-extensions-be1068745b42

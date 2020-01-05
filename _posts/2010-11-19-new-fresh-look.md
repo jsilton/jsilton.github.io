@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New, Fresh Look
+description: I launched this site only a few months ago, but it still could use a facelift. I hope you enjoy this cleaner, more professional look.
 date: 2010-11-19
 redirect_from:
   - /new-fresh-look/

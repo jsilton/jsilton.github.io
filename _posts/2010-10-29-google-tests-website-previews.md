@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Tests Website Previews
+description: Google is testing website previews in the search results. For some users, when hovering over a search results, the background becomes a blue gradient.
 date: 2010-10-29
 redirect_from:
   - /tagged/preview

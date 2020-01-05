@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 7 Steps to Upgrade Your Organization's Analytics
+description: The following seven steps can help your arts organization get the data you need to make better decisions about your digital marketing campaigns.
 date: 2014-10-09
 redirect_from:
   - /7-steps-to-upgrade-your-organizations-analytics-9662f3c798de

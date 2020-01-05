@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Users Want Secure Websites
+description: There is a growing market demand for secure browsing. I would recommend businesses discuss switching to SSL for all pages on their websites.
 date: 2014-03-22
 redirect_from:
   - /users-want-secure-websites-d8afbae20670

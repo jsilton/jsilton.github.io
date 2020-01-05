@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kick Start Your Marketing Career - Take the Google Advertising Fundamentals Exam
+description: If you are trying to kickstart your marketing career, it is very important that you understand search engine marketing.
 date: 2010-11-07
 redirect_from:
   - /kick-start-your-marketing-career-take-the-google-advertising-fundamentals-exam-88ea6580a49e
