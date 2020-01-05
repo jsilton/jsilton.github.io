@@ -7,7 +7,7 @@ redirect_from:
 
 <div class="row headline">
     <div class="twelve columns">
-        <h1>Jordan Silton</h1>
+        <h1>{{ site.name }}</h1>
     </div>
 </div>
 
@@ -59,25 +59,7 @@ redirect_from:
     </div>
 </div> 
 
-<hr>
-
-<div class="row">
-	<div class="four columns">
-		<div class="row">
-			<h2><a href="/articles/">Articles</a></h2>
-			<div class="subhead">
-				<p>Check out my blog posts</p>
-			</div>
-		</div>
-	</div>
-	<div class="eight columns">
-		<ul class="posts">
-			{% for post in site.posts %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-			{% endfor %}
-		</ul>
-	</div>
-</div>
+{% include articles.html %}
 
 <hr>
 
