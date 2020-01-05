@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SMX Overtime - Enterprise SEOs explain tactical approaches for large implementations
+title: SMX Overtime - Enterprise SEOs Explain Tactical Approaches for Large Implementations
 description: Senior Director of SEO at Apartments.com offers advice about managing taxonomy changes, keyword research, event tracking and the importance of industry collaboration.
 date: 2019-03-14
 redirect_from:
