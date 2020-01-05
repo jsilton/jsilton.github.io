@@ -21,7 +21,7 @@ Sometimes an important contact slips through the cracks, and still sends you an 
 
 ## Choose the Most Authoritative Redirect
 
-Redirects come in a [variety of shapes and sizes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections) including server-side redirects (301s, 302s, etc.),client-side redirects (JavaScript redirects, meta refreshes, etc.), and you could even consider a canonical link element a sudo-type of redirect.
+Redirects come in a [variety of shapes and sizes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections) including server-side redirects (301s, 302s, etc.), client-side redirects (JavaScript redirects, meta refreshes, etc.), and you could even consider a canonical link element a sudo-type of redirect.
 
 In the SEO community, we have been somewhat obsessed with 301 redirects. The HTTP status code 301 means "Moved Permanently" and is nearly always the preferred option to indicate a URL and its content has in fact been permanently moved from one place to another. The historical theory was that 301 redirects pass the most authority (link juice, PageRank, or the new equivalent), which helps the new page rank better.
 
@@ -39,4 +39,4 @@ I was still skeptical about meta refreshes due all my past experience, so I reac
 
 That simple message really says it all. It doesn't matter if you use a 301, 302, JavaScript redirect, meta refresh, etc. Google is just trying to figure out which URL is the canonical.
 
-My theory is that Google will have a harder time figuring out the canonical via a meta refresh as opposed to a 301 redirect, so my site may still have some older pages indexed for a little while. I'll keep an eye on it via Google Search Console and make sure all the content gets transitioned over. I still would prefer to setup 301 redirects, but now I have a new experiment to watch for meta refreshes, and I think I also understand just a little bit more about how search engines truly work.
+My theory is that Google will have a harder time figuring out the canonical via a meta refresh as opposed to a 301 redirect, so my site may still have some older pages indexed for a little while and the pages may earn slightly less traffic while Google sorts everything out. I'll keep an eye on it via Google Search Console and make sure all the content gets transitioned over. I still would prefer to setup 301 redirects, but now I have a new experiment to watch for meta refreshes, and I think I also understand just a little bit more about how search engines truly work.
