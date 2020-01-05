@@ -1,39 +1,12 @@
 <!doctype html>
 <html lang="en-US">
-	<head>
-		<meta charset="utf-8">
-		<title>{{ page.title }} | JordanSilton.com</title>
-		<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
-		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-		<meta name="author" content="Jordan Silton">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" type="text/css" href="{{ '/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
-		<link rel="alternate" type="application/rss+xml" title="Jordan Silton RSS" href="/rss.xml">
-		<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
-		{% include analytics.html %}
-	</head>
+	{% include head.html %}
 	<body>
 		<div class="container">
-			<div class="row logo">
-				<a href="/">
-					<img src="/images/logo.png" alt="Jordan Silton Logo" />
-				</a>
-			</div>
-
+			{% include logo.html %}
 			{{ content }}
-
-			<hr>
-
-			<div class="row contact">
-				<p>To get in touch, connect on <a href="https://www.linkedin.com/in/jsilton/">LinkedIn</a>, send a message on <a href="https://twitter.com/jsilton">Twitter</a>, or write to <a href="mailto:jordan@jordansilton.com">jordan@jordansilton.com</a>.</p>
-			</div>
-			
-			<div class="row" style="margin-top:5rem;">
-				<hr class="f">
-				<div class="footer">
-					<p>Copyright &copy; 2010-2020 Jordan Silton. All rights reserved.</p>
-				</div>
-			</div>
+			{% include contact.html %}
+			{% include footer.html %}
 		</div>
 	</body>
 </html>
