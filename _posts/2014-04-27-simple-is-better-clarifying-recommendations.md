@@ -5,6 +5,7 @@ date: 2014-04-27
 redirect_from:
   - /simple-is-better-clarifying-recommendations-b454518ba6f
   - /tag/simplicity
+  - /clarifying-recommendations/
 ---
 
 One of the most challenging parts of working for an agency is making recommendations to clients. In the world of digital marketing, and specifically search engine optimization (SEO), there is no right way to do something. There are a lot of wrong paths, ones that have been littered with spam and manipulation over the years, but if you can avoid signals of over optimization, it is typically an open playing field.

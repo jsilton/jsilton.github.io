@@ -4,6 +4,7 @@ title: Users Want Secure Websites
 date: 2014-03-22
 redirect_from:
   - /users-want-secure-websites-d8afbae20670
+  - /users-want-secure-websites/
 ---
 
 One question I get asked frequently about my job is, “How do you adjust to all the changes Google makes in its algorithm?” Google and Bing both make very regular updates to their algorithms and Google has said on several occasions that can make multiple algorithm changes any given day.

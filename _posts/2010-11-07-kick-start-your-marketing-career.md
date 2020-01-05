@@ -5,6 +5,7 @@ date: 2010-11-07
 redirect_from:
   - /kick-start-your-marketing-career-take-the-google-advertising-fundamentals-exam-88ea6580a49e
   - /kick-start-your-marketing-career-take-the-google-advertising-fundamentals-exam/
+  - /kick-start-your-marketing-career/
 ---
 
 Do you know what all the ads are doing on the top and right side of the search results?

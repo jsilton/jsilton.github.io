@@ -4,6 +4,7 @@ title: Google Tests Larger URL in SERPs
 date: 2013-02-03
 redirect_from:
   - /google-tests-larger-url-in-serps-8a3ea501903c
+  - /google-tests-larger-url/
 ---
 
 A good testing strategy is an integral part of improving every website, and Google is always testing something new. Whether it is the [color of the background behind AdWords ads](https://searchengineland.com/google-switches-adwords-color-back-to-yellow-from-purple-64222), or a recent test to change the color of their [black top navigation bar](https://www.seroundtable.com/google-top-bar-gray-16249.html), Google continues to investigate which tweaks can help users find the results they are looking for as quickly as possible.

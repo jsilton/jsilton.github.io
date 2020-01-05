@@ -4,6 +4,7 @@ title: AdWords Location Extensions
 date: 2011-02-05
 redirect_from:
   - /adwords-location-extensions-be1068745b42
+  - /adwords-location-extensions/
 ---
 
 This week, Google [launched](https://adwords.googleblog.com/2011/02/location-extensions-putting-your.html) its newest update to [location extensions](https://adwords.googleblog.com/2009/07/location-extensions-new-way-to-run.html). When location extensions originally launched, [Google Places](https://www.searchdiscovery.com/blog/google-places-a-lession-in-practice-and-patience/) were not nearly as integrated into the search engine results page (SERP). The SERPs have evolved to include individual Google Places listings with reviews and ratings from some of Google’s other recent product launches such as Hotpot.

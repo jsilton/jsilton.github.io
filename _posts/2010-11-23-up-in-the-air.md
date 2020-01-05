@@ -4,6 +4,7 @@ title: Up In The Air
 date: 2010-11-23
 redirect_from:
   - /up-in-the-air-28baf6bdc0f8
+  - /up-in-the-air/
 ---
 
 

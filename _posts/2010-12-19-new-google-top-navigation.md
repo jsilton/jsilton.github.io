@@ -5,6 +5,7 @@ date: 2010-12-19
 redirect_from:
   - /tagged/navigation
   - /new-google-top-navigation-447bf72eb720
+  - /new-google-top-navigation/
 ---
 
 [Last month](https://techcrunch.com/2010/11/09/google-com-top-nav/), Google started testing what TechCrunch called a “sexier top nav bar”. It looks like google is rolling out this new top nav bar for the homepage and image search. This bar has a light gray background and a slightly darker line at the top. When a user hovers over the other services (Images, Video, Maps, etc.) a darker blue background is displayed behind the selection.

@@ -4,6 +4,7 @@ title: How Nonprofits Engage Mobile Users
 date: 2013-03-11
 redirect_from:
   - /how-nonprofits-engage-mobile-users-cae3ec82f536
+  - /how-nonprofits-engage-mobile-users/
 ---
 
 A few weeks ago, [Atlanta Ballet](https://www.atlantaballet.com/) asked me to be part of a conversation with a reporter from Philanthropy.org who was writing an article about mobile websites. I’ve been working with Atlanta Ballet for several years, wearing many different hats from paid search account manager, to SEO analyst, and have had the privilege of project managing the complete redesign of their website which launched in the spring of 2012.
