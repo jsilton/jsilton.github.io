@@ -4,6 +4,7 @@ title: How Apartments.com Automated Contextual Linking
 description: At Apartments.com, we publish thousands of local guides across the country and found a better way to place and update contextual links both helping renters and search engines.
 date: 2019-05-03
 youtubeId: UYgLHYoP3vY
+slideshareKey: 1P7anQFj9noR91
 redirect_from:
   - /how-apartments-com-automated-contextual-linking-4c1069d754d2
 ---
@@ -20,10 +21,9 @@ We explored a variety of techniques including natural language processing (NLP),
 
 Check out the presentation on SlideShare: [https://www.slideshare.net/jsilton/how-apartmentscom-automated-contextual-linking-next10x-boston-2019](https://www.slideshare.net/jsilton/how-apartmentscom-automated-contextual-linking-next10x-boston-2019)
 
+{% include slideshareEmbed.html key=page.slideshareKey %}
+
 ![How Apartments.com Automated Contextual Linking](/images/how-apartments-com-automated-contextual-linking.jpeg)
-
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UYgLHYoP3vY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Check out a video of my presentation:
 
