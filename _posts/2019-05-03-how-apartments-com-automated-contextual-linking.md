@@ -19,12 +19,10 @@ In this spotlight session from Next10X Boston 2019, we dove into how we identifi
 
 We explored a variety of techniques including natural language processing (NLP), an application of AI and machine learning, to hone our internal linking strategy, and we learned a few tricks along the way to scale internal linking that can help your organization too.
 
-Check out the presentation on SlideShare: [https://www.slideshare.net/jsilton/how-apartmentscom-automated-contextual-linking-next10x-boston-2019](https://www.slideshare.net/jsilton/how-apartmentscom-automated-contextual-linking-next10x-boston-2019)
-
-{% include slideshareEmbed.html key=page.slideshareKey %}
-
-![How Apartments.com Automated Contextual Linking](/images/how-apartments-com-automated-contextual-linking.jpeg)
-
 Check out a video of my presentation:
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+Check out presentation slides on SlideShare:
+
+{% include slideshareEmbed.html key=page.slideshareKey %}
