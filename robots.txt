@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://jordansilton.com/sitemap.xml
