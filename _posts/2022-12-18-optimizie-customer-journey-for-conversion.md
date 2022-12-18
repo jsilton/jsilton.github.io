@@ -40,4 +40,4 @@ For example, Amazon, an e-commerce giant, is known for its rigorous testing and 
 
 It's also important to remember that customer journey optimization is an ongoing process. As your business grows and changes, so too will your customer journey. Make sure to regularly review and assess your customer journey to ensure that it is still aligning with your business goals
 
-*Note: This article is part of my practical exploration of ChatGPT. Using a training set of all the historical articles on this blog, I asked for suggestions for the next article topic and then for the full article text. With a few rounds of suggestions, but no direct edits to the article contents, here is the output. The results are quite impressive, but still have room to improve further.  
+*Note: This article is part of my practical exploration of ChatGPT. Using a training set of all the historical articles on this blog, I asked for suggestions for the next article topic and then for the full article text. With a few rounds of suggestions, but no direct edits to the article contents, here is the output. The results are quite impressive yet still have room to improve further.*
