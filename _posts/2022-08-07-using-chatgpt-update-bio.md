@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Updating My Bio with ChatGPT: A Review
+title: Updating My Bio with ChatGPT, A Review
 description: Learn how ChatGPT helped me craft a polished and compelling bio in this review. Discover how this language model assisted me in effectively showcasing my skills and achievements.
 date: 2022-12-17
-
 ---
 
 Updating a bio can be a challenging task, especially when it comes to finding the right words to convey your message and highlight your skills and achievements. That's why I recently turned to ChatGPT for some assistance. As a language model trained to interact in a conversational way, I knew ChatGPT would be able to help me brainstorm ideas and find the perfect words to use in my updated bio.
