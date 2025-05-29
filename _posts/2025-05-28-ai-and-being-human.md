@@ -2,7 +2,7 @@
 layout: post
 title: What AI Is Really Teaching Us About Being Human
 description: Building AI isn't just about technology—it's accidentally revealing how human consciousness works. From prompt engineering to context windows, every AI feature mirrors our own cognitive patterns.
-date: 2025-05-29
+date: 2025-05-28
 ---
 
 I thought I was learning about AI. Turns out, I was getting a masterclass in being human.
@@ -61,6 +61,4 @@ We're reverse-engineering ourselves.
 
 What is AI teaching you about being human?
 
----
-
-*Originally posted on [LinkedIn](https://www.linkedin.com/posts/jsilton_i-thought-i-was-learning-about-ai-turns-activity-7333482966150524928-rZ74/). Join the discussion and share your thoughts there.
+*Originally posted on [LinkedIn](https://www.linkedin.com/posts/jsilton_i-thought-i-was-learning-about-ai-turns-activity-7333482966150524928-rZ74/). Join the discussion and share your thoughts there.*

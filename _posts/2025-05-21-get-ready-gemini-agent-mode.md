@@ -2,7 +2,7 @@
 layout: post
 title: Get Ready for Gemini Agent Mode
 description: Google just redefined how product and business discovery will work. AI agents are becoming our new trusted companions, and businesses must optimize for this fundamental shift in how customers find and choose services.
-date: 2025-05-22
+date: 2025-05-21
 ---
 
 We knew it was coming. At I/O, it finally became real.
@@ -31,6 +31,4 @@ It's an exhilarating yet terrifying time.
 
 And I can't wait.
 
----
-
-*Originally posted on [LinkedIn](https://www.linkedin.com/posts/jsilton_we-knew-it-was-coming-at-io-it-finally-activity-7330926052870868992-vR2j/). Join the discussion and share your thoughts there.*RetryClaude can make mistakes. Please double-check responses.
+*Originally posted on [LinkedIn](https://www.linkedin.com/posts/jsilton_we-knew-it-was-coming-at-io-it-finally-activity-7330926052870868992-vR2j/). Join the discussion and share your thoughts there.*

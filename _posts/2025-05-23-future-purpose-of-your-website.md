@@ -2,7 +2,7 @@
 layout: post
 title: The Future Purpose of Your Website
 description: Websites aren't fading away, they're evolving to serve two distinct users with different needs. AI agents need structured data and API access, while humans need validation, action, and personal connection.
-date: 2025-05-23
+date: 2025-05-22
 ---
 
 AI agents are changing how we discover everything, so what's the future purpose of your website?
@@ -38,7 +38,5 @@ My two cents:
 2) Start digitizing all touchpoints. The ability to book on your calendar, transact with the business, get advanced help from a human, and much more all need to be built into your site.
 
 Am I on the right track? What am I missing, and what do you disagree with?
-
----
 
 *Originally posted on [LinkedIn](https://www.linkedin.com/posts/jsilton_ai-agents-are-changing-how-we-discover-everything-activity-7331287560117235712-iMDD/). Join the discussion and share your thoughts there.*
