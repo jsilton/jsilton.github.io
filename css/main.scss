@@ -62,14 +62,14 @@ $font-serif: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
 $font-sans:  system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 
 // Type scale — major third (1.25)
-// Base: 20px (2.0rem in our 62.5% system)
-$text-xs:   1.3rem;   // ~13px   — footer, fine print
-$text-sm:   1.5rem;   // ~15px   — subheads, labels
-$text-base: 2.0rem;   // ~20px   — body
-$text-lg:   2.5rem;   // ~25px   — lead paragraphs
-$text-xl:   3.1rem;   // ~31px   — h3
-$text-2xl:  3.9rem;   // ~39px   — h1 mobile
-$text-3xl:  5.4rem;   // ~54px   — h1 desktop
+// Base: 18px (1.8rem in our 62.5% system)
+$text-xs:   1.2rem;   // ~12px   — footer, fine print
+$text-sm:   1.4rem;   // ~14px   — labels
+$text-base: 1.8rem;   // ~18px   — body
+$text-lg:   2.25rem;  // ~22.5px — lead paragraphs
+$text-xl:   2.8rem;   // ~28px   — h3
+$text-2xl:  3.5rem;   // ~35px   — h1 mobile
+$text-3xl:  4.9rem;   // ~49px   — h1 desktop
 
 // Spacing scale — Fibonacci / golden ratio inspired
 // 5, 8, 13, 21, 34, 55, 89
@@ -353,39 +353,22 @@ li {
   }
 }
 
-// Article list — serif, no bullets, hover indent with arrow
+// Article list — serif, no bullets, clean hover indent
 ul.posts li {
   padding-left: 0;
-  margin-bottom: $sp-base;
+  margin-bottom: $sp-md;
   &::before { display: none; }
   a {
     font-family: $font-serif;
     font-size: 1.08em;
     line-height: 1.5;
-    display: inline-block;
-    border-bottom-color: transparent;
+    border-bottom: none;
     padding-left: 0;
-    transition: border-color 0.3s ease, color 0.3s ease, padding-left 0.25s ease;
-
-    &::before {
-      content: "›";
-      display: inline-block;
-      width: 0;
-      overflow: hidden;
-      color: $color-accent;
-      font-weight: 600;
-      font-size: 1.2em;
-      vertical-align: -0.02em;
-      transition: width 0.25s ease, margin-right 0.25s ease;
-      margin-right: 0;
-    }
-
+    transition: color 0.3s ease, padding-left 0.25s ease;
     &:hover {
-      border-bottom-color: $color-accent;
-      &::before {
-        width: 0.6em;
-        margin-right: 0.2em;
-      }
+      padding-left: $sp-sm;
+      color: $color-accent-dark;
+      border-bottom: none;
     }
   }
 }
