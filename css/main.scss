@@ -291,21 +291,6 @@ h5 { font-size: $text-base; }
 h6 { font-size: $text-sm; }
 
 
-/* — Subheads — */
-
-.subhead {
-  font-size: $text-base;
-  font-weight: 400;
-  font-family: $font-serif;
-  font-style: italic;
-  line-height: 1.5;
-  color: $color-secondary;
-  margin-top: $sp-md;
-  margin-bottom: $sp-lg;
-  p { margin-bottom: 0; }
-}
-
-
 /* — Sidebar section layout — */
 // Ensure sidebar contents always stack vertically
 .row > .four.columns {
@@ -368,21 +353,39 @@ li {
   }
 }
 
-// Article list — serif, no bullets, hover shift
+// Article list — serif, no bullets, hover indent with arrow
 ul.posts li {
   padding-left: 0;
   margin-bottom: $sp-base;
-  transition: transform 0.2s ease;
   &::before { display: none; }
   a {
     font-family: $font-serif;
     font-size: 1.08em;
     line-height: 1.5;
+    display: inline-block;
     border-bottom-color: transparent;
-    transition: border-color 0.3s ease, color 0.3s ease, padding-left 0.2s ease;
+    padding-left: 0;
+    transition: border-color 0.3s ease, color 0.3s ease, padding-left 0.25s ease;
+
+    &::before {
+      content: "›";
+      display: inline-block;
+      width: 0;
+      overflow: hidden;
+      color: $color-accent;
+      font-weight: 600;
+      font-size: 1.2em;
+      vertical-align: -0.02em;
+      transition: width 0.25s ease, margin-right 0.25s ease;
+      margin-right: 0;
+    }
+
     &:hover {
-      padding-left: $sp-sm;
       border-bottom-color: $color-accent;
+      &::before {
+        width: 0.6em;
+        margin-right: 0.2em;
+      }
     }
   }
 }
@@ -435,7 +438,7 @@ hr.f {
   border-left: 3px solid $color-accent;
   border-radius: 4px 8px 8px 4px;
   padding: $sp-lg $sp-xl;
-  margin-top: $sp-xs;
+  margin-top: $sp-xl;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
   transition: box-shadow 0.3s ease, transform 0.3s ease;
 
@@ -475,22 +478,10 @@ hr.f {
 .footer {
   margin-top: $sp-lg;
   margin-bottom: $sp-xl;
-  font-size: $text-xs;
+  font-size: $text-sm;
   color: $color-footer;
   text-align: center;
   letter-spacing: 0.02em;
-
-  // Small amber dot above copyright
-  &::before {
-    content: "";
-    display: block;
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background-color: $color-accent;
-    margin: 0 auto $sp-base;
-    opacity: 0.5;
-  }
 
   a {
     color: $color-footer;
@@ -517,14 +508,6 @@ hr.f {
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
 }
 
-
-/* — Lead paragraph — */
-
-.eight.columns > p:first-of-type {
-  font-size: 1.12em;
-  line-height: 1.75;
-  color: $color-heading;
-}
 
 /* — Bold names in lists — */
 
