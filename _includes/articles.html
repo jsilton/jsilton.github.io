@@ -2,12 +2,12 @@
 
 <div class="row">
 	<div class="four columns">
-		<h2><a href="/articles/">Articles</a></h2>
+		<h2>All writing</h2>
 	</div>
 	<div class="eight columns">
 		<ul class="posts">
 			{% for post in site.posts %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+			<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a><time class="post-date" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %-d, %Y' }}</time></li>
 			{% endfor %}
 		</ul>
 	</div>

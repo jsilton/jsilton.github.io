@@ -523,3 +523,58 @@ li strong {
   a { color: #000; border: none; }
   h1::after { display: none; }
 }
+
+/* Personal introduction and editorial selections */
+.introduction {
+  max-width: 720px;
+  font-size: $text-lg;
+  font-family: $font-serif;
+  color: $color-heading;
+}
+
+.intro-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $sp-md $sp-lg;
+}
+
+.selected-writing li {
+  padding-left: 0;
+  margin-bottom: $sp-lg;
+  &::before { display: none; }
+}
+
+.selected-writing h3 {
+  margin: 0 0 $sp-xs;
+  font-size: $text-lg;
+}
+
+.selected-writing time,
+.post-date {
+  display: block;
+  color: $color-secondary;
+  font-size: $text-sm;
+  margin-bottom: $sp-sm;
+}
+
+.selected-writing p { margin-bottom: 0; }
+
+.history { margin-top: $sp-base; }
+.history summary {
+  cursor: pointer;
+  color: $color-heading;
+  text-decoration: underline;
+  text-decoration-color: $color-accent;
+  text-underline-offset: 0.2em;
+}
+.history[open] summary { margin-bottom: $sp-base; }
+
+a:focus-visible,
+summary:focus-visible {
+  outline: 2px solid $color-heading;
+  outline-offset: 4px;
+}
+
+.contact { box-sizing: border-box; }
+.contact p + p { margin-top: $sp-md; }
+.contact a { overflow-wrap: anywhere; }

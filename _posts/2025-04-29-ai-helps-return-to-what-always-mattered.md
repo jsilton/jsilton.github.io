@@ -1,7 +1,8 @@
 ---
 layout: post
 title: AI Helps Us Return to What Always Mattered
-description: AI isn't changing the game—it's helping us focus on what makes us human. The technology handles the repetitive work, while we're left with the human edge: judgment, creativity, and connection.
+description: >-
+  AI isn't changing the game—it's helping us focus on what makes us human. The technology handles the repetitive work, while we're left with the human edge: judgment, creativity, and connection.
 date: 2025-04-29
 ---
 
