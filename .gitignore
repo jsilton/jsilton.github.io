@@ -1,1 +1,4 @@
 _site/
+
+# macOS Finder folder metadata
+.DS_Store
